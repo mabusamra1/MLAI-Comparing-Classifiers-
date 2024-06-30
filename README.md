@@ -3,7 +3,7 @@
 # Case Study : Comparing Classifiers
 ## by Mohammad Abu-Samra
 
-[Link to notebook:]  AIML-Portfolio-Comparing-Classifiers/prompt_III.ipynb at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/prompt_III.ipynb) 
+[Link to notebook:]  AIML-Portfolio-Comparing-Classifiers/prompt_III.ipynb at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/prompt_III.ipynb) 
 
 
 
