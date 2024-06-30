@@ -49,8 +49,7 @@ This data comes from [UCI Machine Learning repository Links to an external site.
 
 
 
-![original.png]([https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/images/original.png])
-
+![original.png](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/raw/main/images/original.png?raw=true)
 
 
 Following features of the provided sample data above:
