@@ -396,7 +396,7 @@ Figure 3 provides the heatmap of the numerical features.
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/heatmap_numeric_features.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/heatmap_numeric_features.png) 
+ ![heatmap_numeric_features.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/heatmap_numeric_features.png) 
 
 **Figure 3 - Heatmap of numeric features & 'y'**
 
@@ -430,7 +430,7 @@ Figure 4 provides the average acceptance across age of the population.
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_age.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_age.png) 
+ ![accept_age.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_age.png) 
 
 **Figure 4 - Avg acceptance across age**
 
@@ -446,7 +446,7 @@ Figure 5 provides the average acceptance across campaigns.
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_campaign.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_campaign.png) 
+ ![accept_campaign.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_campaign.png) 
 
 **Figure 5 - Avg acceptance across campaign**
 
@@ -462,7 +462,7 @@ Figure 6 provides the average acceptance across various jobs.
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_job.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_job.png) 
+ ![accept_job.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_job.png) 
 
 **Figure 6 - Avg acceptance across job**
 
@@ -563,7 +563,7 @@ Following is the comparison between the 4 models:
 
 From Table 1, Logistic Regression model has the best performance and therefore, it was selected to extract the important features that were selected.
 
- ![AIML-Portfolio-Comparing-Classifiers/images/lr_coeff.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/lr_coeff.png)  
+ ![lr_coeff.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/lr_coeff.png)  
 
 **Figure 7 - Important features selected by Logestic Regression'**
 
@@ -589,7 +589,7 @@ For the categorical features, decision of eliminating the features was based on 
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_job.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_job.png)  
+ ![accept_job.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_job.png)  
 
 **Figure 8 - Avg acceptance across job'**
 
@@ -597,7 +597,7 @@ For the categorical features, decision of eliminating the features was based on 
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_education.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_education.png)  
+ ![accept_education.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_education.png)  
 
 **Figure 9 - Avg acceptance across education'**
 
@@ -605,7 +605,7 @@ For the categorical features, decision of eliminating the features was based on 
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_marital.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_marital.png)  
+ ![accept_marital.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_marital.png)  
 
 **Figure 10 - Avg acceptance across marital'**
 
@@ -613,7 +613,7 @@ For the categorical features, decision of eliminating the features was based on 
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_housing.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_housing.png)  
+ ![accept_housing.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_housing.png)  
 
 **Figure 11 - Avg acceptance across housing'**
 
@@ -621,7 +621,7 @@ For the categorical features, decision of eliminating the features was based on 
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_loan.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_loan.png)  
+ ![accept_loan.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_loan.png)  
 
 **Figure 12 - Avg acceptance across loan'**
 
@@ -629,7 +629,7 @@ For the categorical features, decision of eliminating the features was based on 
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_day_of_week.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_day_of_week.png)  
+ ![accept_day_of_week.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_day_of_week.png)  
 
 **Figure 13 - Avg acceptance across day_of_week'**
 
@@ -637,7 +637,7 @@ For the categorical features, decision of eliminating the features was based on 
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/accept_default.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/accept_default.png)  
+ ![accept_default.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/accept_default.png)  
 
 **Figure 14 - Avg acceptance across default'**
 
@@ -721,7 +721,7 @@ Logistic Regression model training execution time: 21.405 msec
 
 The following figure provides the important features identified by the Logestic Regression.
 
- ![AIML-Portfolio-Comparing-Classifiers/images/lr_best_hyper_imp_features.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/lr_best_hyper_imp_features.png)  
+ ![lr_best_hyper_imp_features.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/lr_best_hyper_imp_features.png)  
 
 **Figure 15 - Important Features'** 
 
@@ -810,7 +810,7 @@ Decision Tree performance was the best.
 
 The following figure provides the confusion matrix and ROC curve of Decision Tree model.
 
- ![AIML-Portfolio-Comparing-Classifiers/images/test_dt_confusion_matrix.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/test_dt_confusion_matrix.png)  
+ ![test_dt_confusion_matrix.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/test_dt_confusion_matrix.png)  
 
 **Figure 15 - Decision Tree - Confusion Matrix & ROC'** 
 
