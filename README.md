@@ -364,9 +364,9 @@ In Figure 1, the disbribution of the  campaign population across various feature
 
 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_age_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_age_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_age_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_age_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_campaign_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_campaign_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_campaign_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_campaign_dist.png) 
 
  ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_cons.conf.idx_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_cons.conf.idx_dist.png) 
 
