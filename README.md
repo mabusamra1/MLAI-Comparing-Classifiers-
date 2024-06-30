@@ -355,7 +355,7 @@ In this section, the results of exploring and visualizing insight from the data 
 ### 3.1.1 Categorical Data 
 
 Figure 1 provide the categories and the frequency in percentage per feature. 
-![AIML-Portfolio-Comparing-Classifiers/images/bar_categories.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/bar_categories.png) 
+![bar_categories.png](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/bar_categories.png)
 **Figure 1 - Categories and the frequency in percentage per feature**
 
 
