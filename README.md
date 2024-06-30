@@ -368,21 +368,21 @@ In Figure 1, the disbribution of the  campaign population across various feature
 
  ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_campaign_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_campaign_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_cons.conf.idx_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_cons.conf.idx_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_cons.conf.idx_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_cons.conf.idx_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_cons.price.idx_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_cons.price.idx_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_cons.price.idx_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_cons.price.idx_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_duration_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_duration_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_duration_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_duration_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_emp.var.rate_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_emp.var.rate_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_emp.var.rate_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_emp.var.rate_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_euribor3m_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_euribor3m_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_euribor3m_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_euribor3m_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_nr.employed_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_nr.employed_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_nr.employed_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_nr.employed_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_pdays_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_pdays_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_pdays_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_pdays_dist.png) 
 
- ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_previous_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/bhaswarey/AIML-Portfolio-Comparing-Classifiers/blob/main/images/box_hist_previous_dist.png) 
+ ![AIML-Portfolio-Comparing-Classifiers/images/box_hist_previous_dist.png at main · bhaswarey/AIML-Portfolio-Comparing-Classifiers](https://github.com/mabusamra1/MLAI-Comparing-Classifiers-/blob/main/Images/box_hist_previous_dist.png) 
 
 **Figure 2 - Numerical feature distribution and a view of the outliers per feature**
 
